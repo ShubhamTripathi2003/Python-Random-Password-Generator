@@ -1,4 +1,4 @@
-#Developed By Jagdamba Tripathi
+#Developed By Shubham Tripathi
 
 import string
 import random
